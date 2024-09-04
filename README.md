@@ -7,4 +7,5 @@ For those who want to know my bench pr is 70kg 😁.
 ## My toolkit:
 ![vscode](https://raw.githubusercontent.com/sqnder0/sqnder0/main/assets/vscode.svg)
 ![html](https://raw.githubusercontent.com/sqnder0/sqnder0/main/assets/html5.svg)
-![](https://raw.githubusercontent.com/sqnder0/sqnder0/main/assets/css3.svg)
+![css](https://raw.githubusercontent.com/sqnder0/sqnder0/main/assets/css3.svg)
+![javascript](https://raw.githubusercontent.com/sqnder0/sqnder0/main/assets/javascript.svg)
