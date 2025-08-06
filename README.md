@@ -8,4 +8,4 @@ In my free time I love doing sports, coding and learning new stuff. As main spor
 ![html](https://raw.githubusercontent.com/sqnder0/sqnder0/main/assets/html5.svg)
 ![css](https://raw.githubusercontent.com/sqnder0/sqnder0/main/assets/css3.svg)
 ![javascript](https://raw.githubusercontent.com/sqnder0/sqnder0/main/assets/javascript.svg)
-![sass](https://raw.githubusercontent.com/sqnder0/sqnder0/main/assets/sass-svgrepo-com.svg)
+![sass](https://raw.githubusercontent.com/sqnder0/sqnder0/main/assets/sass.svg)
